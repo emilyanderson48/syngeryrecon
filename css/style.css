@@ -1,10 +1,21 @@
 #landing-section-2 {
     color: white;
+    padding-left: 7.5rem;
+    justify-content: center!important;
 
 }
+#landing-section-6 {
+    text-align: left!important;
+}
+
+#landing-section-7 {
+    color:white!important;
+}
+
 
 #landing-section-2 p {
     color: white!important;
+    padding-top: 2rem;
 }
 .item-service a:hover {
     cursor: pointer;
